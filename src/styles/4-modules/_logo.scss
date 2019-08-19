@@ -1,0 +1,30 @@
+.logo {
+  font-size: 12rem;
+  font-weight: lighter;
+
+  &-blue {
+    color: $color-blue;
+  }
+  &-red {
+    color: $color-red;
+  }
+  &-yellow {
+    color: $color-yellow;
+  }
+  &-green {
+    color: $color-green;
+  }
+
+  &-e {
+    display: inline-block;
+    transform: rotate(-13deg);
+  }
+
+  & span {
+    margin: 0 -0.5rem;
+
+    &:nth-of-type(1) {
+      font-size: 15rem;
+    }
+  }
+}
