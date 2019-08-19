@@ -13,9 +13,7 @@ class Apps extends React.Component {
     return (
       <div
         onClick={this.stopProp}
-        className={`apps-popup ${
-          isOpen ? "apps-popup--visible" : "apps-popup--hidden"
-        }`}
+        className={`apps-popup ${isOpen ? "apps-popup--visible" : ""}`}
       >
         <div className="apps-popup__content">
           <div className="apps-popup--link-box">

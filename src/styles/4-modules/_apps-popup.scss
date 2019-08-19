@@ -12,12 +12,9 @@
 
   //for animation
   //closed state
-
-  &--hidden {
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 1s;
-  }
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s;
 
   //open states
   &--visible {
