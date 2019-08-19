@@ -12,12 +12,15 @@
 
   //for animation
   //closed state
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.3s;
+
+  &--hidden {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1s;
+  }
 
   //open states
-  &:target {
+  &--visible {
     opacity: 1;
     visibility: visible;
   }
