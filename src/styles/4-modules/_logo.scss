@@ -1,5 +1,5 @@
 .logo {
-  font-size: 12rem;
+  font-size: 8rem;
   font-weight: lighter;
 
   &-blue {
@@ -21,10 +21,10 @@
   }
 
   & span {
-    margin: 0 -0.45rem;
+    margin: 0 -0.25rem;
 
     &:nth-of-type(1) {
-      font-size: 15rem;
+      font-size: 9rem;
     }
   }
 }
