@@ -1,7 +1,10 @@
+//icons located in apps drawer
 .icon-link {
   position: relative;
   display: grid;
   place-items: center;
+
+  user-select: none;
 
   &__icon {
     height: 5rem;
@@ -31,6 +34,19 @@
 
   &__contacts {
     fill: #1e88e5;
+  }
+}
+
+//icons located in icon-box
+.icons-box .icon-link {
+  &__icon {
+    height: 3rem;
+    width: 3rem;
+    margin-bottom: 1.5rem;
+  }
+
+  &__youtube {
+    fill: #f00;
   }
 
   &__react {

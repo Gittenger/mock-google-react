@@ -51,10 +51,10 @@ function Icons() {
           />
         </div>
         <div className="icons__icon-box">
-          <IconLink link="https://sass-lang.com/" name="npm" title="npm" />
+          <IconLink link="https://www.npmjs.com/" name="npm" title="npm" />
         </div>
         <div className="icons__icon-box">
-          <IconLink link="https://www.npmjs.com/" name="sass" title="sass" />
+          <IconLink link="https://sass-lang.com/" name="sass" title="Sass" />
         </div>
         <div className="icons__icon-box">
           <IconLink
