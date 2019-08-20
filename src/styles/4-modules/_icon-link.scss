@@ -9,28 +9,43 @@
     margin-bottom: 1rem;
   }
 
-  &__user{
-    fill: #72CAAF;
+  &__user {
+    fill: #72caaf;
   }
 
-  &__google{
-    fill: #1976D2;
+  &__google {
+    fill: #1976d2;
   }
 
-  &__play{
+  &__play {
     fill: #607d8b;
   }
 
-  &__news{
+  &__news {
     fill: $color-green;
   }
 
-  &__youtube{
+  &__youtube {
     fill: #f00;
   }
 
-  &__contacts{
-    fill: #1E88E5;
+  &__contacts {
+    fill: #1e88e5;
   }
-  
+
+  &__react {
+    fill: #61dafb;
+  }
+
+  &__linkedin {
+    fill: #0077b5;
+  }
+
+  &__npm {
+    fill: #cb3837;
+  }
+
+  &__sass {
+    fill: #c69;
+  }
 }

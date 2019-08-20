@@ -1,0 +1,20 @@
+.icons {
+  &-box {
+    display: grid;
+    place-items: center;
+    width: 45rem;
+    height: 20rem;
+    &--content {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      width: 90%;
+      height: 90%;
+    }
+  }
+
+  &__icon-box {
+    display: grid;
+    place-items: center;
+  }
+}
