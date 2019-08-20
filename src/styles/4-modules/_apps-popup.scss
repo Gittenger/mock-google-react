@@ -4,7 +4,11 @@
   width: 300px;
   top: 6.5rem;
   right: 1rem;
-  background-color: rgba($color-black, 0.8);
+  background-color: rgba($color-white, 0.95);
+  border: 1px $color-grey-light solid;
+  box-shadow: -1px -2px 1px 1px rgba($color-grey-dark, 0.15),
+    1px 1px 1px 1px rgba($color-grey-dark, 0.1),
+    -1px -1px 0px 3px rgba($color-grey-dark, 0.04);
   z-index: 5000;
 
   display: grid;
@@ -32,10 +36,6 @@
   }
 
   &--link-box {
-    &:nth-child(even) {
-      background-color: rgb(81, 120, 153);
-    }
-
     display: grid;
     place-items: center;
   }

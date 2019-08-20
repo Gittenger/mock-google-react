@@ -17,49 +17,49 @@ class Apps extends React.Component {
       >
         <div className="apps-popup__content">
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="user" title="Account" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="google" title="Search" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="maps" title="Maps" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="youtube" title="YouTube" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="play" title="Play" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="news" title="News" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="gmail" title="Gmail" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="contacts" title="Contacts" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="drive" title="Drive" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="calendar" title="Calendar" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="translate" title="Translate" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="playMusic" title="Play Music" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="googlePlus" title="Google+" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="googleChrome" title="Chrome" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink />
+            <IconLink name="code" title="Code" />
           </div>
         </div>
       </div>
