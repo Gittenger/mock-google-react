@@ -47,16 +47,16 @@ class Apps extends React.Component {
             <IconLink name="calendar" title="Calendar" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="translate" title="Translate" />
+            <IconLink name="google-translate" title="Translate" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="playMusic" title="Play Music" />
+            <IconLink name="play-music" title="Play Music" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="googlePlus" title="Google+" />
+            <IconLink name="google-plus" title="Google+" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="googleChrome" title="Chrome" />
+            <IconLink name="google-chrome" title="Chrome" />
           </div>
           <div className="apps-popup--link-box">
             <IconLink name="code" title="Code" />

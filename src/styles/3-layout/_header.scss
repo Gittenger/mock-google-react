@@ -22,6 +22,19 @@
     margin: 0 1rem;
   }
 
+  &-link--user {
+    & a {
+      padding-top: 0.6rem;
+    }
+    & p {
+      display: none;
+    }
+    & svg {
+      height: 3rem;
+      width: 3rem;
+    }
+  }
+
   a:hover {
     text-decoration: underline;
   }

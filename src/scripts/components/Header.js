@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import AppDrawer from "./AppDrawer";
-import UserIcon from "./UserIcon";
+import IconLink from "./IconLink";
 
 class Header extends React.Component {
   render() {
@@ -44,8 +44,8 @@ class Header extends React.Component {
           >
             <AppDrawer />
           </div>
-          <div className="nav-link--box">
-            <UserIcon />
+          <div className="nav-link--box nav-link--user">
+            <IconLink name="user" title="Account" />
           </div>
         </div>
       </nav>

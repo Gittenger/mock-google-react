@@ -2,8 +2,35 @@
   position: relative;
   display: grid;
   place-items: center;
+
   &__icon {
     height: 5rem;
     width: 5rem;
+    margin-bottom: 1rem;
   }
+
+  &__user{
+    fill: #72CAAF;
+  }
+
+  &__google{
+    fill: #1976D2;
+  }
+
+  &__play{
+    fill: #607d8b;
+  }
+
+  &__news{
+    fill: $color-green;
+  }
+
+  &__youtube{
+    fill: #f00;
+  }
+
+  &__contacts{
+    fill: #1E88E5;
+  }
+  
 }
