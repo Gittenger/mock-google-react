@@ -45,7 +45,11 @@ class Header extends React.Component {
             <AppDrawer />
           </div>
           <div className="nav-link--box nav-link--user">
-            <IconLink name="user" title="Account" />
+            <IconLink
+              link="https://account.google.com/"
+              name="user"
+              title="Account"
+            />
           </div>
         </div>
       </nav>

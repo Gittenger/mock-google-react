@@ -17,49 +17,105 @@ class Apps extends React.Component {
       >
         <div className="apps-popup__content">
           <div className="apps-popup--link-box">
-            <IconLink name="user" title="Account" />
+            <IconLink
+              link="https://account.google.com/"
+              name="user"
+              title="Account"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="google" title="Search" />
+            <IconLink
+              link="https://www.google.com"
+              name="google"
+              title="Search"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="maps" title="Maps" />
+            <IconLink
+              link="https://www.google.com/maps"
+              name="maps"
+              title="Maps"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="youtube" title="YouTube" />
+            <IconLink
+              link="https://www.youtube.com"
+              name="youtube"
+              title="YouTube"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="play" title="Play" />
+            <IconLink link="https://play.google.com" name="play" title="Play" />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="news" title="News" />
+            <IconLink
+              link="https://news.google.com/"
+              name="news"
+              title="News"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="gmail" title="Gmail" />
+            <IconLink
+              link="https://www.google.com/gmail/"
+              name="gmail"
+              title="Gmail"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="contacts" title="Contacts" />
+            <IconLink
+              link="https://contacts.google.com/"
+              name="contacts"
+              title="Contacts"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="drive" title="Drive" />
+            <IconLink
+              link="https://www.google.com/drive/"
+              name="drive"
+              title="Drive"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="calendar" title="Calendar" />
+            <IconLink
+              link="https://www.google.com/calendar"
+              name="calendar"
+              title="Calendar"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="google-translate" title="Translate" />
+            <IconLink
+              link="https://translate.google.com/"
+              name="google-translate"
+              title="Translate"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="play-music" title="Play Music" />
+            <IconLink
+              link="https://play.google.com/music"
+              name="play-music"
+              title="Play Music"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="google-plus" title="Google+" />
+            <IconLink
+              link="https://aboutme.google.com/u/0/?referer=gplus"
+              name="google-plus"
+              title="Google+"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="google-chrome" title="Chrome" />
+            <IconLink
+              link="https://www.google.com/chrome/"
+              name="google-chrome"
+              title="Chrome"
+            />
           </div>
           <div className="apps-popup--link-box">
-            <IconLink name="code" title="Code" />
+            <IconLink
+              link="https://code.google.com/"
+              name="code"
+              title="Code"
+            />
           </div>
         </div>
       </div>
