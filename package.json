@@ -2,7 +2,7 @@
 	"name": "google-landing",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://gittenger.github.io/react-app-github-pages-test",
+	"homepage": "https://gittenger.github.io/mock-google-react",
 	"dependencies": {
 		"react": "^18.1.0",
 		"react-dom": "^18.1.0",
