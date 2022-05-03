@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b7cf6ea.css",
-    "main.js": "/static/js/main.9d6fd2d8.js",
-    "index.html": "/index.html",
-    "static/media/search.svg": "/static/media/search.d27a6ca2390a30151e19.svg",
-    "main.2b7cf6ea.css.map": "/static/css/main.2b7cf6ea.css.map",
-    "main.9d6fd2d8.js.map": "/static/js/main.9d6fd2d8.js.map"
+    "main.css": "/react-app-github-pages-test/static/css/main.036beb7b.css",
+    "main.js": "/react-app-github-pages-test/static/js/main.9d6fd2d8.js",
+    "index.html": "/react-app-github-pages-test/index.html",
+    "static/media/search.svg": "/react-app-github-pages-test/static/media/search.d27a6ca2390a30151e19.svg",
+    "main.036beb7b.css.map": "/react-app-github-pages-test/static/css/main.036beb7b.css.map",
+    "main.9d6fd2d8.js.map": "/react-app-github-pages-test/static/js/main.9d6fd2d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b7cf6ea.css",
+    "static/css/main.036beb7b.css",
     "static/js/main.9d6fd2d8.js"
   ]
 }
