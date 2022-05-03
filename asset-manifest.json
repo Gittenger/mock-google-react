@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mock-google-react/static/css/main.e73ac8ba.css",
-    "main.js": "/mock-google-react/static/js/main.9d6fd2d8.js",
-    "index.html": "/mock-google-react/index.html",
-    "static/media/search.svg": "/mock-google-react/static/media/search.d27a6ca2390a30151e19.svg",
-    "main.e73ac8ba.css.map": "/mock-google-react/static/css/main.e73ac8ba.css.map",
-    "main.9d6fd2d8.js.map": "/mock-google-react/static/js/main.9d6fd2d8.js.map"
+    "main.css": "https://gittenger.github.io/mock-google-react/static/css/main.8b96d5a6.css",
+    "main.js": "https://gittenger.github.io/mock-google-react/static/js/main.9d6fd2d8.js",
+    "index.html": "https://gittenger.github.io/mock-google-react/index.html",
+    "static/media/search.svg": "https://gittenger.github.io/mock-google-react/static/media/search.d27a6ca2390a30151e19.svg",
+    "main.8b96d5a6.css.map": "https://gittenger.github.io/mock-google-react/static/css/main.8b96d5a6.css.map",
+    "main.9d6fd2d8.js.map": "https://gittenger.github.io/mock-google-react/static/js/main.9d6fd2d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e73ac8ba.css",
+    "static/css/main.8b96d5a6.css",
     "static/js/main.9d6fd2d8.js"
   ]
 }
