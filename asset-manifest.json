@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://gittenger.github.io/mock-google-react/static/css/main.8b96d5a6.css",
-    "main.js": "https://gittenger.github.io/mock-google-react/static/js/main.b8f4f15d.js",
+    "main.js": "https://gittenger.github.io/mock-google-react/static/js/main.0d58b366.js",
     "index.html": "https://gittenger.github.io/mock-google-react/index.html",
     "static/media/search.svg": "https://gittenger.github.io/mock-google-react/static/media/search.d27a6ca2390a30151e19.svg",
     "main.8b96d5a6.css.map": "https://gittenger.github.io/mock-google-react/static/css/main.8b96d5a6.css.map",
-    "main.b8f4f15d.js.map": "https://gittenger.github.io/mock-google-react/static/js/main.b8f4f15d.js.map"
+    "main.0d58b366.js.map": "https://gittenger.github.io/mock-google-react/static/js/main.0d58b366.js.map"
   },
   "entrypoints": [
     "static/css/main.8b96d5a6.css",
-    "static/js/main.b8f4f15d.js"
+    "static/js/main.0d58b366.js"
   ]
 }
