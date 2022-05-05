@@ -16,10 +16,6 @@ class App extends React.Component {
 		this.openApps = this.openApps.bind(this)
 	}
 
-	componentDidMount() {
-		console.log(`public path: ${process.env.PUBLIC_URL}`)
-	}
-
 	closeApps(e) {
 		if (this.state.appsOpen === true) {
 			this.setState(state => ({
